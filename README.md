@@ -9,14 +9,18 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and unicodeveloper's [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)*
 
 ## Contents
+- [Official Resources](#official-resources)
 - [Community](#community)
 - [Essentials](#essentials)
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
 - [Extensions](#extensions)
-- [Apps](#apps)
+- [Examples](#examples)
 - [Books](#books)
 - [Videos](#videos)
+
+## Official Resources
+* [hhh]()
 
 ## Community
 * [Slack](https://zeit.chat)
@@ -35,7 +39,7 @@
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
-## Apps
+## Examples
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 
 ## Books
@@ -47,7 +51,7 @@
 
 
 ## Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+Found an awesome resource, article, blog, video etc.? Please send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md).
 
 ---
 **Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
