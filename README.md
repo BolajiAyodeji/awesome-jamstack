@@ -23,6 +23,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Official Resources
 * [Official Website](https://jamstack.org/)
 * [JAMstack Radio](https://www.netlify.com/tags/podcast/)
+* [Netlify Blog](https://www.netlify.com/blog/)
 * [What is the JAMstack?](https://jamstack.org/#what)
 * [Why the JAMstack?](https://jamstack.org/#why)
 * [How do I get started?](https://jamstack.org/#how)
@@ -39,6 +40,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
+ * [JAMstack Fundamentals: What, What And How](https://www.smashingmagazine.com/2019/06/jamstack-fundamentals-what-what-how/)
  * [What is JAMstack and why you should try it](https://www.giftegwuenu.com/what-is-ja-mstack-and-why-you-should-try-it)
  * [Static Websites + JAMstack = <3](https://julian.is/article/static-websites-and-jamstack/)
  * [How to Build a JAMstack Website](https://cosmicjs.com/blog/how-to-build-a-jamstack-website)
@@ -47,7 +49,18 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
  * [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
  * [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
+ * [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
  * [Zero to HTTP/2 with AWS and Hugo](Zero to HTTP/2 with AWS and Hugo)
+ * [Getting Started With Hugo and Deploying to Netlify](https://www.bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify/)
+ * [What is the JAMstack?](https://flaviocopes.com/jamstack/)
+ * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
+ * [The Promise of JAMStack](https://blog.strapi.io/jamstack/)
+ * [JAMstack vs Isomorphic Server Side Rendering](https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/)
+ * [New to JAMstack? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
+ * [From WordPress to JAMstack: How to make your website 10x faster](https://hackernoon.com/from-wordpress-to-jamstack-how-to-make-your-website-10x-faster-e363abc46e2d)
+ * [JAMstack: The What, The Why and The How](https://scotch.io/tutorials/jamstack-the-what-the-why-and-the-how)
+ * [Adopting the JAMStack: Building CMS-backed static websites with Vue or React](https://www.codegram.com/blog/a-jamstack-journey-headless-content-management-with-vue-react/)
+ * [Build a JAMstack Personal Blog with Headless Ghost 2.0 CMS & Gatsby](https://josebrowne.com/tutorial-static-blog-using-headless-ghost-2-0-gatsby-netlify/)
  
 
 ## Boilerplates
