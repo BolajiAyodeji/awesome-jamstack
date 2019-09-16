@@ -12,10 +12,8 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
-- [Essentials](#essentials)
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
-- [Extensions](#extensions)
 - [Examples](#examples)
 - [Books](#books)
 - [Videos](#videos)
@@ -36,9 +34,6 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Slack](https://jamstack.org/slack/)
 * [GitHub](https://github.com/jamstack/)
 * [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
-
-## Essentials
-* [Blog](https://zeit.co/blog/next)
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
@@ -75,9 +70,6 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
-
-## Extensions
-* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
 ## Examples
 * [bolajiayodeji.com](https://bolajiayodeji.com)
