@@ -12,9 +12,9 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
-- [Useful tools](#useful-tools)
+- [Useful Tools](#useful-tools)
 - [Articles](#articles)
-- [Speaker slides](#speaker-slides)
+- [Speaker Decks](#speaker-slides)
 - [Boilerplates](#boilerplates)
 - [Books](#books)
 - [Videos](#videos)
@@ -73,11 +73,12 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
  * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  
-## Speaker slides
-* [Rise of the JAMstack](https://speakerdeckNew Stack Lunch Presentation](https://speakerdeck.com/biilmann/new-stack-lunch-presentation).com/biilmann/rise-of-the-jamstack)
+## Speaker Decks
+* [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
 * [Harnessing the power of the JAMstack with a Headless CMS](https://slides.com/bolajiayodeji/jamstack-headless-cms#/)
 * [Introducing JAMstack - What we talk about when we talk about modern web tools](https://slides.com/khriztianmoreno/jamstack#/)
 * [The JAMstack in 2019: Why (and How) to Get Started](https://slides.com/khriztianmoreno/the-jamstack-in-2019-why-and-how-to-get-started#/)
+* [Breaking Down Best Practices for JAMstack](https://noti.st/jemimaabu/gNF5op/breaking-down-best-practices-for-jamstack)
 * [Is your JAMstack app really JAMstack?](https://slides.com/obinnaekwuno/deck#/)
 * [React and the JAMstack - Reactathon Fundamentals 2018](https://speakerdeck.com/biilmann/react-and-the-jamstack-reactathon-fundamentals-2018)
 * [The Sweetness of the JAMstack](https://speakerdeck.com/kristinbaumann/the-sweetness-of-the-jamstack)
