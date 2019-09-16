@@ -127,7 +127,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo.
 
 ## Contributing
-Found an awesome resource, article, blog, video etc.? Please send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md).
+Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md).
 
 ---
 **Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
