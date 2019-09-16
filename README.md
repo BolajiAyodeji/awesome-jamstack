@@ -14,7 +14,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 - [Community](#community)
 - [Useful Tools](#useful-tools)
 - [Articles](#articles)
-- [Speaker Decks](#speaker-slides)
+- [Speaker Decks](#speaker-decks)
 - [Boilerplates](#boilerplates)
 - [Books](#books)
 - [Videos](#videos)
