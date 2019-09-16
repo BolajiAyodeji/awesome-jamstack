@@ -12,6 +12,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [Useful tools](#useful-tools)
 - [Articles](#articles)
 - [Speaker slides](#speaker-slides)
 - [Boilerplates](#boilerplates)
@@ -35,6 +36,10 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Slack](https://jamstack.org/slack/)
 * [GitHub](https://github.com/jamstack/)
 * [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
+
+## Useful Tools
+* [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
+* [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
