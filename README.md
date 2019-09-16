@@ -47,10 +47,12 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [Go static: 5 reasons to try JAMstack on your next project](https://builtvisible.com/go-static-try-jamstack/)
  * [JAMstack for Clients: On Benefits & Static Site CMS](https://snipcart.com/blog/jamstack-clients-static-site-cms)
  * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
+ * [Building JAMStack powered react-static sites using GraphQL on Postgres](https://hashnode.com/post/building-jamstack-powered-react-static-sites-using-graphql-on-postgres-cjs1unp39001fjps2z5ux0k9g)
  * [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
  * [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
+ * [Secure and Scalable: An Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)
  * [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
- * [Zero to HTTP/2 with AWS and Hugo](Zero to HTTP/2 with AWS and Hugo)
+ * [Zero to HTTP/2 with AWS and Hugo](https://habd.as/zero-to-http-2-aws-hugo/)
  * [Getting Started With Hugo and Deploying to Netlify](https://www.bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify/)
  * [What is the JAMstack?](https://flaviocopes.com/jamstack/)
  * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
@@ -61,6 +63,12 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [JAMstack: The What, The Why and The How](https://scotch.io/tutorials/jamstack-the-what-the-why-and-the-how)
  * [Adopting the JAMStack: Building CMS-backed static websites with Vue or React](https://www.codegram.com/blog/a-jamstack-journey-headless-content-management-with-vue-react/)
  * [Build a JAMstack Personal Blog with Headless Ghost 2.0 CMS & Gatsby](https://josebrowne.com/tutorial-static-blog-using-headless-ghost-2-0-gatsby-netlify/)
+ * [How to Build a JAMstack Website using Vue.js, Nuxt.js and Cosmic JS](https://cosmicjs.com/articles/how-to-build-a-jamstack-website-using-vuejs-nuxtjs-and-cosmic-js-jws3mpy1)
+ * [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://hashnode.com/post/a-ghost-demo-how-to-go-headless-with-ghost-cms-tutorial-cjy4fxmmr0001rts1pyp2ch2s)
+ * [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
+ * [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
+ * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
+ * [
  
 
 ## Boilerplates
