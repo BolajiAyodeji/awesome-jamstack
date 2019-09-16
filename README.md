@@ -13,6 +13,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Articles](#articles)
+- [Speaker slides](#slides)
 - [Boilerplates](#boilerplates)
 - [Examples](#examples)
 - [Books](#books)
@@ -67,12 +68,13 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
  * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  
+## Speaker slides
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 
 ## Examples
-* [bolajiayodeji.com](https://bolajiayodeji.com)
+* [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo.
 
 ## Books
 * [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/) - New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth
