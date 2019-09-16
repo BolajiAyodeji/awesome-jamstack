@@ -23,6 +23,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Official Resources
 * [Official Website](https://jamstack.org/)
 * [JAMstack Radio](https://www.netlify.com/tags/podcast/)
+* [JAMstack Boilerplates](https://templates.netlify.com/)
 * [Netlify Blog](https://www.netlify.com/blog/)
 * [What is the JAMstack?](https://jamstack.org/#what)
 * [Why the JAMstack?](https://jamstack.org/#why)
@@ -59,6 +60,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [Getting Started With Hugo and Deploying to Netlify](https://www.bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify/)
  * [What is the JAMstack?](https://flaviocopes.com/jamstack/)
  * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
+ * [JAMstack Basics: How to Create a Gatsby Starter with Contentful and Deploy to Netlify](https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc)
  * [The Promise of JAMStack](https://blog.strapi.io/jamstack/)
  * [JAMstack vs Isomorphic Server Side Rendering](https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/)
  * [New to JAMstack? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
@@ -88,9 +90,6 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [New Stack Lunch Presentation](https://speakerdeck.com/biilmann/new-stack-lunch-presentation)
 * [The JAMstack - Smashing Conf Freiburg 2017](https://speakerdeck.com/biilmann/the-jamstack-smashing-conf-freiburg-2017)
 * [What the JAMstack?](https://speakerdeck.com/frontendne/what-the-jamstack)
-
-## Boilerplates
-* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 
 ## Books
 * [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/) - New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth
