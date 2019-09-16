@@ -50,7 +50,7 @@
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
-**Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
+**Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
