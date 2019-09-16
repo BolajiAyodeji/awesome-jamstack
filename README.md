@@ -47,6 +47,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [What is JAMstack and why you should try it](https://www.giftegwuenu.com/what-is-ja-mstack-and-why-you-should-try-it)
  * [Static Websites + JAMstack = <3](https://julian.is/article/static-websites-and-jamstack/)
  * [How to Build a JAMstack Website](https://cosmicjs.com/blog/how-to-build-a-jamstack-website)
+ * [Useful APIs to know when building a JAMstack app](https://blog.logrocket.com/jamstack-app-apis/)
  * [Go static: 5 reasons to try JAMstack on your next project](https://builtvisible.com/go-static-try-jamstack/)
  * [JAMstack for Clients: On Benefits & Static Site CMS](https://snipcart.com/blog/jamstack-clients-static-site-cms)
  * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
@@ -73,6 +74,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
  * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
  * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
+ * [JAMStack vs serverless web apps](https://fettblog.eu/jamstack-vs-serverless-web-apps/)
  
 ## Speaker Decks
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
