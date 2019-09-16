@@ -74,6 +74,19 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  
 ## Speaker slides
+* [Rise of the JAMstack](https://speakerdeckNew Stack Lunch Presentation](https://speakerdeck.com/biilmann/new-stack-lunch-presentation).com/biilmann/rise-of-the-jamstack)
+* [Harnessing the power of the JAMstack with a Headless CMS](https://slides.com/bolajiayodeji/jamstack-headless-cms#/)
+* [Introducing JAMstack - What we talk about when we talk about modern web tools](https://slides.com/khriztianmoreno/jamstack#/)
+* [The JAMstack in 2019: Why (and How) to Get Started](https://slides.com/khriztianmoreno/the-jamstack-in-2019-why-and-how-to-get-started#/)
+* [Is your JAMstack app really JAMstack?](https://slides.com/obinnaekwuno/deck#/)
+* [React and the JAMstack - Reactathon Fundamentals 2018](https://speakerdeck.com/biilmann/react-and-the-jamstack-reactathon-fundamentals-2018)
+* [The Sweetness of the JAMstack](https://speakerdeck.com/kristinbaumann/the-sweetness-of-the-jamstack)
+* [JAMstack Cheatsheet](https://speakerdeck.com/peduarte/jamstack-cheatsheet)
+* [Developing with WordPress, the JAMstack way](https://speakerdeck.com/emaildano/developing-with-wordpress-the-jamstack-way)
+* [Lightning Talk - JAMStack](https://speakerdeck.com/unicodeveloper/lightning-talk-jamstack)
+* [New Stack Lunch Presentation](https://speakerdeck.com/biilmann/new-stack-lunch-presentation)
+* [The JAMstack - Smashing Conf Freiburg 2017](https://speakerdeck.com/biilmann/the-jamstack-smashing-conf-freiburg-2017)
+* [What the JAMstack?](https://speakerdeck.com/frontendne/what-the-jamstack)
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
