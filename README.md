@@ -31,8 +31,10 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [JAMstack resources](https://jamstack.org/resources/)
 
 ## Community
+* [JAMstack_conf](https://jamstackconf.com/)
 * [JAMstack chapters](https://jamstack.org/community/)
 * [Slack](https://jamstack.org/slack/)
+* [Twitter](https://twitter.com/jamstackconf)
 * [GitHub](https://github.com/jamstack/)
 
 ## Essentials
@@ -89,6 +91,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [The Rise of the JAMstack CMS — Matt Biilmann](https://www.youtube.com/watch?v=IbNvjNtL1Oo)
 * [The New Front-end Stack. Javascript, APIs and Markup - Mathias Biillman](https://vimeo.com/163522126)
 * [Frontend for a server-less stack - Brian Douglas](https://www.youtube.com/watch?v=XpveOehxvoM)
+* [The State of the JAMstack Nation - Sarah Drasner](https://www.youtube.com/watch?v=COAVmST41Q0)
 * [Easy Isomorphic Rendering on the JAMstack - Phil Hawksworth](https://www.youtube.com/watch?v=lRg99MH6rhw)
 * [Performant web animations — Emily Hayman](https://www.youtube.com/watch?v=vL4Hwp0z9YQ)
 * [Why static types in Javascript? — Preethi Kasireddy](https://www.youtube.com/watch?v=E5y2dozTkZU)
