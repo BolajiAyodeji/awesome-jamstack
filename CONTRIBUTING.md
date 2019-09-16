@@ -14,7 +14,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one to avoid duplicates.
 - Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Use [title-casing](https://titlecaseconverter.com/) (AP style).
 - Use the following format: `[Title Case Name](link) - Description.`
   > :information_source: [Articles](https://github.com/BolajiAyodeji/awesome-jamstack#articles) should use the `[Title Case Name](link)` format.
 - Keep descriptions short and simple, but descriptive.
