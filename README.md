@@ -85,7 +85,20 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 
 ## Videos
 
-* [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+* [Rise of the JAMstack - Mathias Biillman](https://www.youtube.com/watch?v=uWTMEDEPw8c)
+* [The Rise of the JAMstack CMS — Matt Biilmann](https://www.youtube.com/watch?v=IbNvjNtL1Oo)
+* [The New Front-end Stack. Javascript, APIs and Markup - Mathias Biillman](https://vimeo.com/163522126)
+* [Frontend for a server-less stack - Brian Douglas](https://www.youtube.com/watch?v=XpveOehxvoM)
+* [Easy Isomorphic Rendering on the JAMstack - Phil Hawksworth](https://www.youtube.com/watch?v=lRg99MH6rhw)
+* [Performant web animations — Emily Hayman](https://www.youtube.com/watch?v=vL4Hwp0z9YQ)
+* [Why static types in Javascript? — Preethi Kasireddy](https://www.youtube.com/watch?v=E5y2dozTkZU)
+* [A Modern Web Landscape — Matt Biilmann, Frances Berriman, and Wilson Miner](https://www.youtube.com/watch?v=8n5D4SDqIck)
+* [You need an API: Now what? — Erin McKean](https://www.youtube.com/watch?v=uWOWTwJA4rc)
+* [Using Elm to Prototype and Build Web Applications  – David Calavera](https://www.youtube.com/watch?v=Lmg9v2U6-y4)
+* [GraphQL: The Mental Model — Dhaivat Pandya](https://www.youtube.com/watch?v=zWhVAN4Tg6M)
+* [JWT FTW WTF? – Matt Biilmann](https://www.youtube.com/watch?v=4wOfjF1_j_0)
+* [Jammin' with Markdown — David Wells](https://www.youtube.com/watch?v=LcgPRe7rLT4)
+* [JAMstack for clients — Brian Douglas](https://www.youtube.com/watch?v=22XKtBjbEvU)
 
 
 ## Contributing
