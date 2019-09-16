@@ -4,9 +4,10 @@
 
 > Curated list of resources: books, videos, articles, tools about using the JAMstack.
 
-[JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+[JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. <br />
+The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and unicodeveloper's [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) list*
 
 ## Contents
 - [Official Resources](#official-resources)
