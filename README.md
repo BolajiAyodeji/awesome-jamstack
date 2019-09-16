@@ -21,12 +21,17 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 - [Videos](#videos)
 
 ## Official Resources
-* [hhh]()
+* [Official wesite](https://jamstack.org/)
+* [What is the JAMstack?](https://jamstack.org/#what)
+* [Why the JAMstack?](https://jamstack.org/#why)
+* [How do I get started?](https://jamstack.org/#how)
+* [JAMstack best practices](https://jamstack.org/best-practices/)
+* [JAMstack resources](https://jamstack.org/resources/)
 
 ## Community
-* [Slack](https://zeit.chat)
-* [GitHub](https://github.com/zeit/next.js)
-* [Spectrum](https://spectrum.chat/next-js)
+* [JAMstack chapters](https://jamstack.org/community/)
+* [Slack](https://jamstack.org/slack/)
+* [GitHub](https://github.com/jamstack/)
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -41,7 +46,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 
 ## Examples
-* [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
+* [bolajiayodeji.com](https://bolajiayodeji.com)
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
