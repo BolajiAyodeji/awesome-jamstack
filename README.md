@@ -68,7 +68,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
  * [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
  * [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
  * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
- * [
+ * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  
 
 ## Boilerplates
@@ -99,6 +99,10 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [JWT FTW WTF? – Matt Biilmann](https://www.youtube.com/watch?v=4wOfjF1_j_0)
 * [Jammin' with Markdown — David Wells](https://www.youtube.com/watch?v=LcgPRe7rLT4)
 * [JAMstack for clients — Brian Douglas](https://www.youtube.com/watch?v=22XKtBjbEvU)
+* [What is the JAMStack?](https://www.youtube.com/watch?v=Y8PXMbr0Kqo)
+* [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE)
+* [Jamstack Getting Started Video](https://www.youtube.com/watch?v=3GdI04dLxyQ)
+* [How We Talk About the JAMstack - Matt Biilmann](https://www.youtube.com/watch?v=VzQ0d8-nMhw)
 
 
 ## Contributing
