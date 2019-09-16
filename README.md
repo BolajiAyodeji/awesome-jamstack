@@ -6,7 +6,7 @@
 
 [JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and .*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and unicodeveloper's [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)*
 
 ## Contents
 - [Community](#community)
