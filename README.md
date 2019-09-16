@@ -37,7 +37,17 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Blog](https://zeit.co/blog/next)
 
 ## Articles
- * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
+ * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
+ * [What is JAMstack and why you should try it](https://www.giftegwuenu.com/what-is-ja-mstack-and-why-you-should-try-it)
+ * [Static Websites + JAMstack = <3](https://julian.is/article/static-websites-and-jamstack/)
+ * [How to Build a JAMstack Website](https://cosmicjs.com/blog/how-to-build-a-jamstack-website)
+ * [Go static: 5 reasons to try JAMstack on your next project](https://builtvisible.com/go-static-try-jamstack/)
+ * [JAMstack for Clients: On Benefits & Static Site CMS](https://snipcart.com/blog/jamstack-clients-static-site-cms)
+ * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
+ * [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
+ * [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
+ * [Zero to HTTP/2 with AWS and Hugo](Zero to HTTP/2 with AWS and Hugo)
+ 
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
