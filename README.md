@@ -21,7 +21,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 - [Videos](#videos)
 
 ## Official Resources
-* [Official wesite](https://jamstack.org/)
+* [Official website](https://jamstack.org/)
 * [What is the JAMstack?](https://jamstack.org/#what)
 * [Why the JAMstack?](https://jamstack.org/#why)
 * [How do I get started?](https://jamstack.org/#how)
@@ -49,7 +49,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [bolajiayodeji.com](https://bolajiayodeji.com)
 
 ## Books
-* [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
+* [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/) - New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth
 
 ## Videos
 
