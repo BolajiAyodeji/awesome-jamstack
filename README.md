@@ -1,4 +1,4 @@
-# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/bolajiayodeji-approved-brightgreen.svg)vg)
+# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/bolajiayodeji-approved-brightgreen.svg)
 
 [<img src="https://d33wubrfki0l68.cloudfront.net/0e10c97634da0242be91bec4f6a198a78dd68f99/b5de5/img/jamstack-full-logo.svg" align="right" width="250">](https://github.com/jamstack)
 
