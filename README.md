@@ -34,8 +34,8 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [JAMstack_conf](https://jamstackconf.com/)
 * [JAMstack chapters](https://jamstack.org/community/)
 * [Slack](https://jamstack.org/slack/)
-* [Twitter](https://twitter.com/jamstackconf)
 * [GitHub](https://github.com/jamstack/)
+* [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
@@ -106,6 +106,12 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE)
 * [Jamstack Getting Started Video](https://www.youtube.com/watch?v=3GdI04dLxyQ)
 * [How We Talk About the JAMstack - Matt Biilmann](https://www.youtube.com/watch?v=VzQ0d8-nMhw)
+* [The All Powerful Front End Developer - Chris Coyier](https://www.youtube.com/watch?v=grSxHfGoaeg)
+* [How freeCodeCamp Serves Millions of Learners Using the JAMstack](https://www.youtube.com/watch?v=e5H7CI3yqPY)
+* [My Honest Experience from Start to End with the Jamstack... Umm!?](https://www.youtube.com/watch?v=uFXGJ8hVvaU)
+* [Jam Stack: The New Kid on the Block - JS Monthly - March 2019](https://www.youtube.com/watch?v=PzXpCNBcofw)
+* [Build Modern JAMstack Websites in Minutes - Ben Edwards](https://www.youtube.com/watch?v=AHZjqYFfzyk)
+* [What is the JAMstack? - Phil Hawksworth](https://www.youtube.com/watch?v=Opye_qcRdUo)
 
 
 ## Contributing
