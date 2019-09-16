@@ -9,13 +9,12 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) list*
 
-## Contents
+## Table of Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Useful Tools](#useful-tools)
 - [Articles](#articles)
 - [Speaker Decks](#speaker-decks)
-- [Boilerplates](#boilerplates)
 - [Books](#books)
 - [Videos](#videos)
 - [Examples](#examples)
