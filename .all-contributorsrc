@@ -16,6 +16,16 @@
         "doc",
         "tool"
       ]
+    },
+    {
+      "login": "derrickreimer",
+      "name": "Derrick Reimer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/341387?v=4",
+      "profile": "https://www.derrickreimer.com",
+      "contributions": [
+        "tool",
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
