@@ -43,6 +43,9 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development
 to global deployment.
 * [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
+* [Zeit](https://zeit.co/) - The easiest way to deploy websites 
+* [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
+* [Netlify Forms](https://www.netlify.com/products/forms/) - Manage forms and submissions without any server-side code or JavaScript.
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
