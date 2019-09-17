@@ -40,7 +40,8 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Useful Tools
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 * [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
-* [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
+* [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development
+to global deployment.
 * [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 
 ## Articles
