@@ -40,6 +40,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 ## Useful Tools
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 * [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+* [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
@@ -125,6 +126,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 
 ## Examples
 * [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo + Netlify CMS.
+* [derrickreimer.com](https://derrickreimer.com) A JAMstack site build with Jekyll and deployed on Netlify ([source](https://github.com/derrickreimer/site))
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
