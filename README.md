@@ -124,7 +124,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [What is the JAMstack? - Phil Hawksworth](https://www.youtube.com/watch?v=Opye_qcRdUo)
 
 ## Examples
-* [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo.
+* [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo + Netlify CMS.
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
