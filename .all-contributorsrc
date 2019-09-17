@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "BolajiAyodeji",
+      "name": "Bolaji Ayodeji",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30334776?v=4",
+      "profile": "https://bolajiayodeji.com",
+      "contributions": [
+        "content",
+        "blog",
+        "doc",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-jamstack",
+  "projectOwner": "BolajiAyodeji",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

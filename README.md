@@ -1,4 +1,5 @@
 # Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/bolajiayodeji-approved-brightgreen.svg)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 [<img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1568670061/jamstack-full-logo.svg" alt="jamstack full logo" align="right" width="250">](https://jamstack.org)
 
@@ -136,3 +137,19 @@ Found an awesome resource, article, blog, video, speaker deck etc.? Please send 
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
