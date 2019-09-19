@@ -132,6 +132,7 @@ to global deployment.
 ## Examples
 * [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo + Netlify CMS ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
 * [derrickreimer.com](https://derrickreimer.com) A JAMstack site build with Jekyll and deployed on Netlify ([source](https://github.com/derrickreimer/site))
+* [olamilekan.dev](https://olamilekan.dev/) A JAMstack site built with Hugo and deployed on Netlify
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
