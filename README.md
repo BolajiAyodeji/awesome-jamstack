@@ -81,6 +81,7 @@ to global deployment.
  * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
  * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  * [JAMStack vs serverless web apps](https://fettblog.eu/jamstack-vs-serverless-web-apps/)
+ * [JAMstack? More like SHAMstack.](https://css-tricks.com/jamstack-more-like-shamstack/)
  
 ## Speaker Decks
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
