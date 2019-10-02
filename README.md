@@ -82,6 +82,9 @@ to global deployment.
  * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  * [JAMStack vs serverless web apps](https://fettblog.eu/jamstack-vs-serverless-web-apps/)
  * [JAMstack? More like SHAMstack.](https://css-tricks.com/jamstack-more-like-shamstack/)
+ * [Static File Hosting Doesn’t Have To Be So… Static](https://css-tricks.com/static-file-hosting-doesnt-have-to-be-so-static/)
+ * [Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
+ * [Hey, let’s create a functional calendar app with the JAMstack](https://css-tricks.com/hey-lets-create-a-functional-calendar-app-with-the-jamstack/)
  
 ## Speaker Decks
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
