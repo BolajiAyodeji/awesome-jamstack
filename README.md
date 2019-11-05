@@ -1,4 +1,4 @@
-# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/bolajiayodeji-approved-blue.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/bolajiayodeji-approved-blue.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 [<img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1568670061/jamstack-full-logo.svg" alt="jamstack full logo" align="right" width="250">](https://jamstack.org)
 
@@ -158,6 +158,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
     <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4" width="100px;" alt="Derrick Reimer"/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4" width="100px;" alt="Ivan Bila"/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
   </tr>
 </table>
 
