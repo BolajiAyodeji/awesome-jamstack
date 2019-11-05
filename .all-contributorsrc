@@ -26,6 +26,15 @@
         "tool",
         "blog"
       ]
+    },
+    {
+      "login": "IvanBila",
+      "name": "Ivan Bila",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13482373?v=4",
+      "profile": "https://ivanbila.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
