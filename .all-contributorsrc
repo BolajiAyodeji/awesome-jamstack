@@ -35,6 +35,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "remotesynth",
+      "name": "Brian Rinaldi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/216712?v=4",
+      "profile": "http://remotesynthesis.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
