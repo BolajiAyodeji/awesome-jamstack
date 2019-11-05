@@ -46,6 +46,8 @@ to global deployment.
 * [Zeit](https://zeit.co/) - The easiest way to deploy websites 
 * [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 * [Netlify Forms](https://www.netlify.com/products/forms/) - Manage forms and submissions without any server-side code or JavaScript.
+* [Stackbit](https://www.stackbit.com/) - Create a CMS-connected JAMstack site deployed to Netlify in minutes.
+* [JAMstackThemes.dev](https://jamstackthemes.dev/) - A list of themes for JAMstack sites for most popular static site generators.
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
