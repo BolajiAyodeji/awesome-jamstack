@@ -44,6 +44,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "derekcoleman",
+      "name": "Derek Coleman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1326001?v=4",
+      "profile": "https://github.com/derekcoleman",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

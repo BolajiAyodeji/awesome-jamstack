@@ -1,4 +1,4 @@
-# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
 [<img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1568670061/jamstack-full-logo.svg" alt="jamstack full logo" align="right" width="250">](https://jamstack.org)
 
@@ -165,6 +165,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4" width="100px;" alt="Derrick Reimer"/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4" width="100px;" alt="Ivan Bila"/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
     <td align="center"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4" width="100px;" alt="Brian Rinaldi"/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4" width="100px;" alt="Derek Coleman"/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
   </tr>
 </table>
 
