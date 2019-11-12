@@ -88,6 +88,8 @@ to global deployment.
  * [Static File Hosting Doesn’t Have To Be So… Static](https://css-tricks.com/static-file-hosting-doesnt-have-to-be-so-static/)
  * [Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
  * [Hey, let’s create a functional calendar app with the JAMstack](https://css-tricks.com/hey-lets-create-a-functional-calendar-app-with-the-jamstack/)
+ * [What Is JAMstack](https://buttercms.com/blog/what-is-jamstack)
+  * [Building a JAMstack Blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
  
 ## Speaker Decks
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
