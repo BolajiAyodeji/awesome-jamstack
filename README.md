@@ -112,7 +112,7 @@ to global deployment.
 
 ## Videos
 
-* [Free video courses about various JAMstack projects and technologies](https://jamstack.training)
+* [Free, educational video courses about various JAMstack projects and technologies](https://jamstack.training)
 * [Rise of the JAMstack - Mathias Biillman](https://www.youtube.com/watch?v=uWTMEDEPw8c)
 * [The Rise of the JAMstack CMS — Matt Biilmann](https://www.youtube.com/watch?v=IbNvjNtL1Oo)
 * [The New Front-end Stack. Javascript, APIs and Markup - Mathias Biillman](https://vimeo.com/163522126)
