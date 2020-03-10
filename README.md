@@ -1,4 +1,4 @@
-# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+# Awesome JAMstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 
 [<img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1568670061/jamstack-full-logo.svg" alt="jamstack full logo" align="right" width="250">](https://jamstack.org)
 
@@ -111,7 +111,6 @@ to global deployment.
 * [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/) - New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth
 
 ## Videos
-
 * [Free, educational video courses about various JAMstack projects and technologies](https://jamstack.training)
 * [Rise of the JAMstack - Mathias Biillman](https://www.youtube.com/watch?v=uWTMEDEPw8c)
 * [The Rise of the JAMstack CMS — Matt Biilmann](https://www.youtube.com/watch?v=IbNvjNtL1Oo)
@@ -140,7 +139,6 @@ to global deployment.
 * [What is the JAMstack? - Phil Hawksworth](https://www.youtube.com/watch?v=Opye_qcRdUo)
 
 ## Examples
-* [bolajiayodeji.com](https://bolajiayodeji.com) A JAMstack blog built with Hugo + Netlify CMS ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
 * [derrickreimer.com](https://derrickreimer.com) A JAMstack site build with Jekyll and deployed on Netlify ([source](https://github.com/derrickreimer/site))
 * [olamilekan.dev](https://olamilekan.dev/) A JAMstack site built with Hugo and deployed on Netlify
 * [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com/) A JAMstack Ecommerce Site built with Nuxt and Netlify Functions([source](https://github.com/sdras/ecommerce-netlify))
@@ -155,7 +153,6 @@ Found an awesome resource, article, blog, video, speaker deck etc.? Please send 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contributors ✨
-
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
