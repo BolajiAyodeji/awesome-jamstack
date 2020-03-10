@@ -159,17 +159,21 @@ Found an awesome resource, article, blog, video, speaker deck etc.? Please send 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
-    <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4" width="100px;" alt="Derrick Reimer"/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4" width="100px;" alt="Ivan Bila"/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4" width="100px;" alt="Brian Rinaldi"/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4" width="100px;" alt="Derek Coleman"/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4" width="100px;" alt=""/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4" width="100px;" alt=""/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4" width="100px;" alt=""/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4" width="100px;" alt=""/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.fullstacktraining.com"><img src="https://avatars1.githubusercontent.com/u/2042718?v=4" width="100px;" alt=""/><br /><sub><b>Tamas Piros</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=tpiros" title="Documentation">📖</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
