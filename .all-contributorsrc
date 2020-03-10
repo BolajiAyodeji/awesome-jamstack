@@ -53,11 +53,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "tpiros",
+      "name": "Tamas Piros",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2042718?v=4",
+      "profile": "https://www.fullstacktraining.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "awesome-jamstack",
   "projectOwner": "BolajiAyodeji",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
