@@ -135,6 +135,7 @@ to global deployment.
 * [Jam Stack: The New Kid on the Block - JS Monthly - March 2019](https://www.youtube.com/watch?v=PzXpCNBcofw)
 * [Build Modern JAMstack Websites in Minutes - Ben Edwards](https://www.youtube.com/watch?v=AHZjqYFfzyk)
 * [What is the JAMstack? - Phil Hawksworth](https://www.youtube.com/watch?v=Opye_qcRdUo)
+* [JAMstack Course - Build websites that are simpler, faster, and more secure](https://www.youtube.com/watch?v=A_l0qrPUJds)
 
 ## Examples
 * [derrickreimer.com](https://derrickreimer.com) A JAMstack site build with Jekyll and deployed on Netlify ([source](https://github.com/derrickreimer/site))
