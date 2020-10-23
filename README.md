@@ -80,7 +80,6 @@ to global deployment.
  * [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
  * [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
  * [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
- * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
  * [JAMStack vs serverless web apps](https://fettblog.eu/jamstack-vs-serverless-web-apps/)
  * [JAMstack? More like SHAMstack.](https://css-tricks.com/jamstack-more-like-shamstack/)
  * [Static File Hosting Doesn’t Have To Be So… Static](https://css-tricks.com/static-file-hosting-doesnt-have-to-be-so-static/)
