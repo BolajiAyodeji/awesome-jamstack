@@ -47,6 +47,7 @@ to global deployment.
 * [Stackbit](https://www.stackbit.com/) - Create a CMS-connected JAMstack site deployed to Netlify in minutes.
 * [JAMstackThemes.dev](https://jamstackthemes.dev/) - A list of themes for JAMstack sites for most popular static site generators.
 * [JAMstack CMS](https://github.com/jamstack-cms/jamstack-cms) - JAMstack CMS gives you the ability to deploy a full stack serverless website in just a few minutes.
+* [Commerce Layer](https://commercelayer.io) - Headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease.
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
@@ -137,9 +138,10 @@ to global deployment.
 * [JAMstack Course - Build websites that are simpler, faster, and more secure](https://www.youtube.com/watch?v=A_l0qrPUJds)
 
 ## Examples
-* [derrickreimer.com](https://derrickreimer.com) A JAMstack site build with Jekyll and deployed on Netlify ([source](https://github.com/derrickreimer/site))
-* [olamilekan.dev](https://olamilekan.dev/) A JAMstack site built with Hugo and deployed on Netlify
-* [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com/) A JAMstack Ecommerce Site built with Nuxt and Netlify Functions([source](https://github.com/sdras/ecommerce-netlify))
+* [derrickreimer.com](https://derrickreimer.com) - A JAMstack site build with Jekyll and deployed on Netlify. ([source](https://github.com/derrickreimer/site))
+* [olamilekan.dev](https://olamilekan.dev) - A JAMstack site built with Hugo and deployed on Netlify.
+* [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com) - A JAMstack Ecommerce Site built with Nuxt and Netlify Functions. ([source](https://github.com/sdras/ecommerce-netlify))
+* [bolajiayodeji.com](https://bolajiayodeji.com) - A JAMstack site built with Nextjs and deployed on Firebase. ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
 
 ## Contributing
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
