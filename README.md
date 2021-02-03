@@ -48,6 +48,7 @@ to global deployment.
 * [JAMstackThemes.dev](https://jamstackthemes.dev/) - A list of themes for JAMstack sites for most popular static site generators.
 * [JAMstack CMS](https://github.com/jamstack-cms/jamstack-cms) - JAMstack CMS gives you the ability to deploy a full stack serverless website in just a few minutes.
 * [Commerce Layer](https://commercelayer.io) - Headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease.
+* [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 
 ## Articles
  * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
