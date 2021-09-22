@@ -2,12 +2,12 @@
 
 ![](https://repository-images.githubusercontent.com/208843661/aa3deb80-6311-11ea-9d41-b2cdbbde72a9)
 
-[JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. <br />
-The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
+[JAMstack](https://jamstack.org/) is a Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. The JAMstack is not about specific technologies. It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) list*
 
 ## Table of Contents
+
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Useful Tools](#useful-tools)
@@ -18,6 +18,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 - [Examples](#examples)
 
 ## Official Resources
+
 * [Official Website](https://jamstack.org/)
 * [JAMstack Radio](https://www.netlify.com/tags/podcast/)
 * [JAMstack Boilerplates](https://templates.netlify.com/)
@@ -29,6 +30,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [JAMstack resources](https://jamstack.org/resources/)
 
 ## Community
+
 * [JAMstack_conf](https://jamstackconf.com/)
 * [JAMstack chapters](https://jamstack.org/community/)
 * [Slack](https://jamstack.org/slack/)
@@ -38,6 +40,7 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Jamstack at Linkedin](https://www.linkedin.com/groups/8722827/)
 
 ## Useful Tools
+
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 * [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 * [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development
@@ -54,6 +57,7 @@ to global deployment.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
 
 ## Articles
+
  * [Introducing JAMstack: The Modern Web Architecture](https://www.blog.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
  * [JAMstack Fundamentals: What, What And How](https://www.smashingmagazine.com/2019/06/jamstack-fundamentals-what-what-how/)
  * [What is JAMstack and why you should try it](https://www.giftegwuenu.com/what-is-ja-mstack-and-why-you-should-try-it)
@@ -96,6 +100,7 @@ to global deployment.
  * [Jamstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
  
 ## Speaker Decks
+
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
 * [Harnessing the power of the JAMstack with a Headless CMS](https://slides.com/bolajiayodeji/jamstack-headless-cms#/)
 * [Introducing JAMstack - What we talk about when we talk about modern web tools](https://slides.com/khriztianmoreno/jamstack#/)
@@ -112,9 +117,11 @@ to global deployment.
 * [What the JAMstack?](https://speakerdeck.com/frontendne/what-the-jamstack)
 
 ## Books
+
 * [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/) - New Techniques for Ultra Fast Sites and Web Applications by Mathias Biilmann & Phil Hawksworth
 
 ## Videos
+
 * [Free, educational video courses about various JAMstack projects and technologies](https://jamstack.training)
 * [Rise of the JAMstack - Mathias Biillman](https://www.youtube.com/watch?v=uWTMEDEPw8c)
 * [The Rise of the JAMstack CMS — Matt Biilmann](https://www.youtube.com/watch?v=IbNvjNtL1Oo)
@@ -144,15 +151,17 @@ to global deployment.
 * [JAMstack Course - Build websites that are simpler, faster, and more secure](https://www.youtube.com/watch?v=A_l0qrPUJds)
 
 ## Examples
+
 * [derrickreimer.com](https://derrickreimer.com) - A JAMstack site build with Jekyll and deployed on Netlify. ([source](https://github.com/derrickreimer/site))
-* [olamilekan.dev](https://olamilekan.dev) - A JAMstack site built with Hugo and deployed on Netlify.
 * [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com) - A JAMstack Ecommerce Site built with Nuxt and Netlify Functions. ([source](https://github.com/sdras/ecommerce-netlify))
 * [bolajiayodeji.com](https://bolajiayodeji.com) - A JAMstack site built with Nextjs and deployed on Firebase. ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
 
 ## Contributing
+
 Found an awesome resource, article, blog, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 ## Contributors ✨
+
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -182,7 +191,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 ---
 
-**Check out my [blog](https://blog.bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
+**Check out my [blog](https://blog.bolajiayodeji.com), [newsletter](https://bawd.bolajiayodeji.com), or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
