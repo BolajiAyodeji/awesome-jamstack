@@ -171,6 +171,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=spekulatius" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/CookieDuster"><img src="https://avatars.githubusercontent.com/u/51830273?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CookieDuster</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=CookieDuster" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ludovic-armand"><img src="https://avatars.githubusercontent.com/u/77077373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ludovic Armand</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=ludovic-armand" title="Documentation">📖</a></td>
   </tr>
 </table>
 
