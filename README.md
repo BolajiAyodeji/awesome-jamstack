@@ -34,6 +34,8 @@ The JAMstack is not about specific technologies. It’s a new way of building we
 * [Slack](https://jamstack.org/slack/)
 * [GitHub](https://github.com/jamstack/)
 * [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
+* [Jamstack_dev at Reddit](https://www.reddit.com/r/JAMstack_dev/)
+* [Jamstack at Linkedin](https://www.linkedin.com/groups/8722827/)
 
 ## Useful Tools
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
@@ -85,10 +87,12 @@ to global deployment.
  * [JAMStack vs serverless web apps](https://fettblog.eu/jamstack-vs-serverless-web-apps/)
  * [JAMstack? More like SHAMstack.](https://css-tricks.com/jamstack-more-like-shamstack/)
  * [Static File Hosting Doesn’t Have To Be So… Static](https://css-tricks.com/static-file-hosting-doesnt-have-to-be-so-static/)
+ * [Modern Jamstack Hosting and Deployment Solutions](https://bejamas.io/blog/jamstack-hosting-deployment/)
  * [Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
  * [Hey, let’s create a functional calendar app with the JAMstack](https://css-tricks.com/hey-lets-create-a-functional-calendar-app-with-the-jamstack/)
  * [What Is JAMstack](https://buttercms.com/blog/what-is-jamstack)
-  * [Building a JAMstack Blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
+ * [Building a JAMstack Blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
+ * [Jamstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
  
 ## Speaker Decks
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
