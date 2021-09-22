@@ -51,7 +51,7 @@ to global deployment.
 * [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 
 ## Articles
- * [Introducing JAMstack: The Modern Web Architecture](https://www.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
+ * [Introducing JAMstack: The Modern Web Architecture](https://www.blog.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
  * [JAMstack Fundamentals: What, What And How](https://www.smashingmagazine.com/2019/06/jamstack-fundamentals-what-what-how/)
  * [What is JAMstack and why you should try it](https://www.giftegwuenu.com/what-is-ja-mstack-and-why-you-should-try-it)
  * [Static Websites + JAMstack = <3](https://julian.is/article/static-websites-and-jamstack/)
@@ -66,7 +66,7 @@ to global deployment.
  * [Secure and Scalable: An Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)
  * [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
  * [Zero to HTTP/2 with AWS and Hugo](https://habd.as/zero-to-http-2-aws-hugo/)
- * [Getting Started With Hugo and Deploying to Netlify](https://www.bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify/)
+ * [Getting Started With Hugo and Deploying to Netlify](https://www.blog.bolajiayodeji.com/getting-started-with-hugo-and-deploying-to-netlify/)
  * [What is the JAMstack?](https://flaviocopes.com/jamstack/)
  * [A JAMstack-ready CMS](https://www.contentful.com/r/knowledgebase/jamstack-cms/)
  * [JAMstack Basics: How to Create a Gatsby Starter with Contentful and Deploy to Netlify](https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc)
@@ -174,7 +174,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 ---
 
-**Check out my [blog](https://bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
+**Check out my [blog](https://blog.bolajiayodeji.com) or say *hi* on [Twitter](https://twitter.com/iambolajiayo).**
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
