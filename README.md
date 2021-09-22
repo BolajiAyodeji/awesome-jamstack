@@ -160,21 +160,23 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
-    <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4" width="100px;" alt=""/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4" width="100px;" alt=""/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4" width="100px;" alt=""/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4" width="100px;" alt=""/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.fullstacktraining.com"><img src="https://avatars1.githubusercontent.com/u/2042718?v=4" width="100px;" alt=""/><br /><sub><b>Tamas Piros</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=tpiros" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4" width="100px;" alt=""/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=genesisgabiola" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="#content-BolajiAyodeji" title="Content">🖋</a> <a href="#blog-BolajiAyodeji" title="Blogposts">📝</a> <a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=BolajiAyodeji" title="Documentation">📖</a> <a href="#tool-BolajiAyodeji" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://www.derrickreimer.com"><img src="https://avatars2.githubusercontent.com/u/341387?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Derrick Reimer</b></sub></a><br /><a href="#tool-derrickreimer" title="Tools">🔧</a> <a href="#blog-derrickreimer" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://ivanbila.github.io/"><img src="https://avatars0.githubusercontent.com/u/13482373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivan Bila</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=IvanBila" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://remotesynthesis.com"><img src="https://avatars1.githubusercontent.com/u/216712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brian Rinaldi</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=remotesynth" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/derekcoleman"><img src="https://avatars1.githubusercontent.com/u/1326001?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Derek Coleman</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=derekcoleman" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.fullstacktraining.com"><img src="https://avatars1.githubusercontent.com/u/2042718?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tamas Piros</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=tpiros" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://genesisgabiola.now.sh/"><img src="https://avatars0.githubusercontent.com/u/8042418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Genesis Gabiola</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=genesisgabiola" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=spekulatius" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://peterthaleikis.com"><img src="https://avatars0.githubusercontent.com/u/8433587?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Thaleikis</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=spekulatius" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/CookieDuster"><img src="https://avatars.githubusercontent.com/u/51830273?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CookieDuster</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=CookieDuster" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
