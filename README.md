@@ -89,7 +89,8 @@ to global deployment.
  * [Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback](https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/)
  * [Hey, let’s create a functional calendar app with the JAMstack](https://css-tricks.com/hey-lets-create-a-functional-calendar-app-with-the-jamstack/)
  * [What Is JAMstack](https://buttercms.com/blog/what-is-jamstack)
-  * [Building a JAMstack Blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
+ * [Building a JAMstack Blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
+ * [Making Sense of Jamstack & Serverless Architecture](Making Sense of Jamstack & Serverless Architecture)
  
 ## Speaker Decks
 * [Rise of the JAMstack](https://speakerdeck.com/biilmann/rise-of-the-jamstack)
