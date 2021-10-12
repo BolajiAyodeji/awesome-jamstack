@@ -80,6 +80,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "CookieDuster",
+      "name": "CookieDuster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51830273?v=4",
+      "profile": "https://github.com/CookieDuster",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ludovic-armand",
+      "name": "Ludovic Armand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77077373?v=4",
+      "profile": "https://github.com/ludovic-armand",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
