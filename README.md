@@ -97,6 +97,7 @@ to global deployment.
  * [Hey, let’s create a functional calendar app with the JAMstack](https://css-tricks.com/hey-lets-create-a-functional-calendar-app-with-the-jamstack/)
  * [What Is JAMstack](https://buttercms.com/blog/what-is-jamstack)
  * [Building a JAMstack Blog: Gatsby and ButterCMS on Netlify](https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify)
+ * [Making Sense of Jamstack & Serverless Architecture](https://snipcart.com/blog/jamstack-serverless-backend)
  * [Jamstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
  
 ## Speaker Decks
