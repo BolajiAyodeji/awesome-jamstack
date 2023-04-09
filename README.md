@@ -8,19 +8,14 @@
 
 ## Table of Contents
 
-- [Awesome JAMstack ](#awesome-jamstack-)
-  - [Table of Contents](#table-of-contents)
-  - [Official Resources](#official-resources)
-  - [Community](#community)
-  - [Useful Tools](#useful-tools)
-  - [Articles](#articles)
-  - [Speaker Decks](#speaker-decks)
-  - [Books](#books)
-  - [Videos](#videos)
-  - [Examples](#examples)
-  - [Contributing](#contributing)
-  - [Contributors ✨](#contributors-)
-  - [License](#license)
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Useful Tools](#useful-tools)
+- [Articles](#articles)
+- [Speaker Decks](#speaker-decks)
+- [Books](#books)
+- [Videos](#videos)
+- [Examples](#examples)
 
 ## Official Resources
 
