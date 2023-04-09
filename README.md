@@ -8,14 +8,19 @@
 
 ## Table of Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Useful Tools](#useful-tools)
-- [Articles](#articles)
-- [Speaker Decks](#speaker-decks)
-- [Books](#books)
-- [Videos](#videos)
-- [Examples](#examples)
+- [Awesome JAMstack ](#awesome-jamstack-)
+  - [Table of Contents](#table-of-contents)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Useful Tools](#useful-tools)
+  - [Articles](#articles)
+  - [Speaker Decks](#speaker-decks)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Examples](#examples)
+  - [Contributing](#contributing)
+  - [Contributors ✨](#contributors-)
+  - [License](#license)
 
 ## Official Resources
 
@@ -31,9 +36,10 @@
 
 ## Community
 
-* [JAMstack_conf](https://jamstackconf.com/)
-* [JAMstack chapters](https://jamstack.org/community/)
-* [Slack](https://jamstack.org/slack/)
+* [JAMstack Conf](https://jamstackconf.com/)
+* [JAMstack Conf on Twitter](https://twitter.com/jamstackconf)
+* [JAMstack Community](https://jamstack.org/community/)
+* [Discord](https://discord.gg/jamstack)
 * [GitHub](https://github.com/jamstack/)
 * [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
 * [Jamstack_dev at Reddit](https://www.reddit.com/r/JAMstack_dev/)
