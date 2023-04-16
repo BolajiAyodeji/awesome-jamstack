@@ -31,14 +31,14 @@
 
 ## Community
 
-* [JAMstack Conf](https://jamstackconf.com/)
-* [JAMstack Conf on Twitter](https://twitter.com/jamstackconf)
-* [JAMstack Community](https://jamstack.org/community/)
-* [Discord](https://discord.gg/jamstack)
-* [GitHub](https://github.com/jamstack/)
-* [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
+* [Jamstack Community](https://jamstack.org/community)
+* [Jamstack Discord Community](https://discord.gg/jamstack)
+* [Jamstack Conf](https://jamstackconf.com)
+* [Jamstack Conf on Twitter](https://twitter.com/jamstackconf)
 * [Jamstack_dev at Reddit](https://www.reddit.com/r/JAMstack_dev/)
 * [Jamstack at Linkedin](https://www.linkedin.com/groups/8722827/)
+* [GitHub](https://github.com/jamstack)
+* [YouTube](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
 
 ## Useful Tools
 
