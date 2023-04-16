@@ -98,6 +98,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dsolemorera",
+      "name": "Dani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3201518?v=4",
+      "profile": "https://www.dsolemorera.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -105,5 +114,6 @@
   "projectOwner": "BolajiAyodeji",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
