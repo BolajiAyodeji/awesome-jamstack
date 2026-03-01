@@ -67,6 +67,7 @@ to global deployment.
 * [Commerce Layer](https://commercelayer.io) - Headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease.
 * [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
+* [PageGuard](https://pageguard.org) - Free website health scanner for ADA/WCAG accessibility, SEO, performance, and best practices in one scan.
 
 ## Articles
 
