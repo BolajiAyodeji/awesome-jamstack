@@ -68,6 +68,7 @@ to global deployment.
 * [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
 * [PageGuard](https://pageguard.org) - Free website health scanner for ADA/WCAG accessibility, SEO, performance, and best practices in one scan.
+* [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Sign up, pick a name, start writing in 2 minutes. Free forever, $9/mo Pro.
 
 ## Articles
 
