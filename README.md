@@ -68,6 +68,7 @@ to global deployment.
 * [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
 * [PageGuard](https://pageguard.org) - Free website health scanner for ADA/WCAG accessibility, SEO, performance, and best practices in one scan.
+* [TinyTools](https://tinytools-smoky.vercel.app/) - Open-source collection of single-purpose web utilities helpful for JAMstack builders: favicon generator, OG image generator, SEO meta tag generator, color palette generator, AI background remover (runs in-browser via ONNX/WASM), domain name generator, AI cost calculator, AI Act content disclosure & AI robots.txt generators. All free, no signup, browser-based.
 
 ## Articles
 
