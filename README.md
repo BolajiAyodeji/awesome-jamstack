@@ -169,6 +169,7 @@ to global deployment.
 * [derrickreimer.com](https://derrickreimer.com) - A JAMstack site build with Jekyll and deployed on Netlify. ([source](https://github.com/derrickreimer/site))
 * [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com) - A JAMstack Ecommerce Site built with Nuxt and Netlify Functions. ([source](https://github.com/sdras/ecommerce-netlify))
 * [bolajiayodeji.com](https://bolajiayodeji.com) - A JAMstack site built with Nextjs and deployed on Firebase. ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
+* [parish.cv](https://parish.cv) - A VS Code-inspired developer portfolio built with React, TypeScript, Vite, Tailwind CSS, and deployed on Cloudflare Workers.
 
 ## Contributing
 
