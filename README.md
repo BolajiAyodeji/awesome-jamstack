@@ -55,6 +55,7 @@
 
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 * [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+* [UnfoldCMS](https://unfoldcms.com) - Self-hosted Laravel headless CMS for JAMstack sites. REST API v1, HMAC webhooks for rebuild triggers, works with Next.js, Astro, SvelteKit, Nuxt. [GitHub](https://github.com/hpakdaman/unfoldcms)
 * [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development
 to global deployment.
 * [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
