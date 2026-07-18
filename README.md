@@ -68,6 +68,7 @@ to global deployment.
 * [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
 * [PageGuard](https://pageguard.org) - Free website health scanner for ADA/WCAG accessibility, SEO, performance, and best practices in one scan.
+* [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products from your Jamstack site with just Stripe and GitHub.
 
 ## Articles
 
