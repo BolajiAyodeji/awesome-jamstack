@@ -116,6 +116,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "usamaejaz",
+      "name": "Usama Ejaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9406823?v=4",
+      "profile": "https://usamaejaz.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "duct-tape2",
+      "name": "duct-tape2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280634153?v=4",
+      "profile": "https://duct-tape2.github.io/repo-launch/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
