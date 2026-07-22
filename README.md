@@ -67,8 +67,10 @@ to global deployment.
 * [Commerce Layer](https://commercelayer.io) - Headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease.
 * [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
+* [GitHub Pages Storefront Starter](https://github.com/duct-tape2/github-pages-storefront-starter) - Free static storefront template and checker for small Jamstack product pages.
 * [PageGuard](https://pageguard.org) - Free website health scanner for ADA/WCAG accessibility, SEO, performance, and best practices in one scan.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
+* [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
 
 ## Articles
 
@@ -170,6 +172,7 @@ to global deployment.
 * [derrickreimer.com](https://derrickreimer.com) - A JAMstack site build with Jekyll and deployed on Netlify. ([source](https://github.com/derrickreimer/site))
 * [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com) - A JAMstack Ecommerce Site built with Nuxt and Netlify Functions. ([source](https://github.com/sdras/ecommerce-netlify))
 * [bolajiayodeji.com](https://bolajiayodeji.com) - A JAMstack site built with Nextjs and deployed on Firebase. ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
+* [parish.cv](https://parish.cv) - A VS Code-inspired developer portfolio built with React, TypeScript, Vite, Tailwind CSS, and deployed on Cloudflare Workers.
 
 ## Contributing
 
@@ -199,6 +202,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ludovic-armand"><img src="https://avatars.githubusercontent.com/u/77077373?v=4?s=100" width="100px;" alt="Ludovic Armand"/><br /><sub><b>Ludovic Armand</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=ludovic-armand" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.dsolemorera.com/"><img src="https://avatars.githubusercontent.com/u/3201518?v=4?s=100" width="100px;" alt="Dani"/><br /><sub><b>Dani</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=dsolemorera" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sleepyxpad-jpg"><img src="https://avatars.githubusercontent.com/u/260055783?v=4?s=100" width="100px;" alt="sleepyxpad-jpg"/><br /><sub><b>sleepyxpad-jpg</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=sleepyxpad-jpg" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://usamaejaz.com"><img src="https://avatars.githubusercontent.com/u/9406823?v=4?s=100" width="100px;" alt="Usama Ejaz"/><br /><sub><b>Usama Ejaz</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=usamaejaz" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://duct-tape2.github.io/repo-launch/"><img src="https://avatars.githubusercontent.com/u/280634153?v=4?s=100" width="100px;" alt="duct-tape2"/><br /><sub><b>duct-tape2</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=duct-tape2" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
