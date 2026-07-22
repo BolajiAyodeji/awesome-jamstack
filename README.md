@@ -69,6 +69,7 @@ to global deployment.
 * [Snipcart](https://snipcart.com) - Shopping cart you can simply add to any of your favorite website stack.
 * [GitHub Pages Storefront Starter](https://github.com/duct-tape2/github-pages-storefront-starter) - Free static storefront template and checker for small Jamstack product pages.
 * [PageGuard](https://pageguard.org) - Free website health scanner for ADA/WCAG accessibility, SEO, performance, and best practices in one scan.
+* [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products from your Jamstack site with just Stripe and GitHub.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
 * [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
 
