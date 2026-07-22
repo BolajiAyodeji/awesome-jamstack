@@ -202,6 +202,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.dsolemorera.com/"><img src="https://avatars.githubusercontent.com/u/3201518?v=4?s=100" width="100px;" alt="Dani"/><br /><sub><b>Dani</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=dsolemorera" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sleepyxpad-jpg"><img src="https://avatars.githubusercontent.com/u/260055783?v=4?s=100" width="100px;" alt="sleepyxpad-jpg"/><br /><sub><b>sleepyxpad-jpg</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=sleepyxpad-jpg" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://usamaejaz.com"><img src="https://avatars.githubusercontent.com/u/9406823?v=4?s=100" width="100px;" alt="Usama Ejaz"/><br /><sub><b>Usama Ejaz</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=usamaejaz" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://duct-tape2.github.io/repo-launch/"><img src="https://avatars.githubusercontent.com/u/280634153?v=4?s=100" width="100px;" alt="duct-tape2"/><br /><sub><b>duct-tape2</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-jamstack/commits?author=duct-tape2" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
