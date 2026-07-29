@@ -73,6 +73,8 @@ to global deployment.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
 * [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
 
+- [Payload Components](https://www.payload-components.xyz) - MIT registry of 67 typed Payload CMS blocks for Payload v3 and Next.js 15/16; installs owned source and automates Pages, renderer, types, and admin import-map wiring.
+
 ## Articles
 
  * [Introducing JAMstack: The Modern Web Architecture](https://www.blog.bolajiayodeji.com/introducing-jamstack-the-modern-web-architecture/)
