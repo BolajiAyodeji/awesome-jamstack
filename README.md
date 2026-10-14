@@ -174,6 +174,7 @@ to global deployment.
 * [ecommerce-netlify.netlify.com](https://ecommerce-netlify.netlify.com) - A JAMstack Ecommerce Site built with Nuxt and Netlify Functions. ([source](https://github.com/sdras/ecommerce-netlify))
 * [bolajiayodeji.com](https://bolajiayodeji.com) - A JAMstack site built with Nextjs and deployed on Firebase. ([source](https://github.com/BolajiAyodeji/bolajiayodeji.com))
 * [parish.cv](https://parish.cv) - A VS Code-inspired developer portfolio built with React, TypeScript, Vite, Tailwind CSS, and deployed on Cloudflare Workers.
+* [bjjgraph.org](https://bjjgraph.org) - A Brazilian jiu-jitsu study site built with Quartz and deployed on Cloudflare Pages, with about 4,600 prerendered pages and an interactive canvas graph. ([source](https://github.com/diogoseca/bjjgraph))
 
 ## Contributing
 
