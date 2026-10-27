@@ -72,6 +72,7 @@ to global deployment.
 * [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products from your Jamstack site with just Stripe and GitHub.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
 * [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
+* [Light Cloud](https://light-cloud.com/) - Hosting platform that deploys static sites and APIs from Git, with a preview URL per branch and unlimited static sites on the free plan.
 
 ## Articles
 
