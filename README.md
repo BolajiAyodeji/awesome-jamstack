@@ -72,6 +72,7 @@ to global deployment.
 * [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products from your Jamstack site with just Stripe and GitHub.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
 * [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
+* [Buddy](https://buddy.works/) - CI/CD service that builds sites made with Gatsby, Hugo, Jekyll, and other static site generators on every Git push and deploys them to Netlify, Amazon S3, or your own server over SFTP.
 
 ## Articles
 
