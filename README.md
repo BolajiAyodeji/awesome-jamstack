@@ -72,6 +72,7 @@ to global deployment.
 * [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products from your Jamstack site with just Stripe and GitHub.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
 * [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
+* [Formkove](https://formkove.com/) - Form backend that holds spam back before delivery, tags each submission by what it says, routes messages to Slack, Discord, Google Sheets, Zapier, or webhooks, and gives agencies a workspace per client.
 
 ## Articles
 
