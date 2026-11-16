@@ -72,6 +72,7 @@ to global deployment.
 * [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products from your Jamstack site with just Stripe and GitHub.
 * [Hakanai Broadcast](https://broadcast.hakanai.io) - Turn your site's RSS feed into an email newsletter and automatically post new content to social networks.
 * [JustBlogged](https://justblogged.com/) - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes.
+* [Lomen Analytics](https://lomenanalytics.com) - Website analytics from one cookie-free script tag, with a built-in AI chat that answers questions about your traffic.
 
 ## Articles
 
